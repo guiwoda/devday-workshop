@@ -36,3 +36,19 @@ Navegá el catálogo de recetas de cervezas, con maltas y lúpulos de todos los 
 Definí el color, el aroma y el amargor de tu cerveza con nuestra calculadora BrewCalculator.
 
 Además, podés armar pedidos para que te enviemos a tu domicilio todo lo que necesitás para empezar a cocinar! Happy brewing!
+
+## Conferencer!
+
+Organizar conferencias nunca fue tan fácil! Con *Conferencer!* podés gestionar tus charlas (agendadas y _lightning_) y tus workshops en un _venue_ customizable y configurable!
+
+Gestioná a tus speakers.
+
+Navegá nuestras opciones de catering o ingresá una propia. 
+
+Gestioná tus sponsors con diferentes planes de sponsoreo.
+
+## Kanban.io
+
+Gestión de proyectos ágiles simple y sencilla.
+
+Creá tareas y maneja tu propio flujo de estados. Agregale tags customizables a cada tarea, asigná usuarios y manejá estimaciones y burndown.
